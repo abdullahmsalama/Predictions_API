@@ -2,11 +2,11 @@
 
 ## Introduction
 
-In this Readme file, I will explain the structure of the codes and the part each component plays in the API. The python code I created is also commented.
+In this Readme file, I will explain the structure of the codes and the part each component plays in the API. The python code I created is also commented. It is worth to mention that the models trains are not optimized, but are rather used as a exercise for me to integrate them within an API!.
 
 ## Context
 
-The marketing department of a mobility company (also operates in ride-hailing and ride sharing) is doing a lot of campaigns, and they would like to know beforehand if the user segment that they are targeting is relevant for specific campaigns. One of the core information they need is the estimated
+The marketing department of a mobility company is doing a lot of campaigns, and they would like to know beforehand if the user segment that they are targeting is relevant for specific campaigns. One of the core information they need is the estimated
 customer-life-time-value of a passenger. Given that we know the activity of a passenger within the first week of signing
 up, we would like to know how, much money will they spend on trips within one month from registration.
 
